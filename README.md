@@ -55,9 +55,9 @@ $ git clone https://github.com/AlexisCastro12/ToDo-List.git
 
 ```
 
-<!--Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
+Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
 
-Initially the eyes are centered, just slide the pointer along the browser window and it will change the background color. Also, the proximity of the bee will be indicated in the banner in the upper left corner-->
+<!--Initially the eyes are centered, just slide the pointer along the browser window and it will change the background color. Also, the proximity of the bee will be indicated in the banner in the upper left corner-->
 
 ## :wrench: Support
 
