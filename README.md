@@ -29,9 +29,9 @@
 
 ## :dart: Description
 
-To-Do List is an application where the basic front-end languages (HTML, CSS and JS) interact to create a fun interface that responds to the movement of the pointer in the browser.
+<!--To-Do List is an application where the basic front-end languages (HTML, CSS and JS) interact to create a fun interface that responds to the movement of the pointer in the browser.
 
-The project is made up of a pair of eyes that constantly pay attention to a bee's position and as it gets closer to them, the color of the skin changes to reddish when the bee is at the closest point.
+The project is made up of a pair of eyes that constantly pay attention to a bee's position and as it gets closer to them, the color of the skin changes to reddish when the bee is at the closest point.-->
 
 ## :sparkles: Roadmap
 
@@ -39,19 +39,9 @@ The characteristics that this project currently has are:
 
 :heavy_check_mark: The pointer is a bee.
 
-:heavy_check_mark: There is a pair of eyes that move proportionally according to the movement of the pointer.
-
-:heavy_check_mark: The background color changes proportionally according to the movement of the pointer.
-
-:heavy_check_mark: There is a sign that updates indicating the position of the bee (near, far or approaching).
-
-The main objective of this project is to learn how to manipulate the DOM of a web application. Also, its purpose is to handle events such as the movement of the pointer on the browser window. In the first instance, the application has fulfilled its objective, however, it is still possible to make improvements to complement it, such as:
+The main objective of this project is <!-- to learn how to manipulate the DOM of a web application. Also, its purpose is to handle events such as the movement of the pointer on the browser window. In the first instance, the application has fulfilled its objective, however, it is still possible to make improvements to complement it, such as:-->
 
 :pushpin: Allow the user to switch from the pointer image.
-
-:pushpin: Improve the UI by delimiting the character's face and body, allowing only that region to change color, leaving the background with other color characteristics or an image.
-
-:pushpin: Put more responses to events like a left click that triggers a hand moving to scare the bug.
 
 ## :white_check_mark: Requirements
 
@@ -65,9 +55,9 @@ $ git clone https://github.com/AlexisCastro12/ToDo-List.git
 
 ```
 
-Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
+<!--Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
 
-Initially the eyes are centered, just slide the pointer along the browser window and it will change the background color. Also, the proximity of the bee will be indicated in the banner in the upper left corner
+Initially the eyes are centered, just slide the pointer along the browser window and it will change the background color. Also, the proximity of the bee will be indicated in the banner in the upper left corner-->
 
 ## :wrench: Support
 
