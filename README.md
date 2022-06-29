@@ -29,9 +29,9 @@
 
 ## :dart: Description
 
-<!--To-Do List is an application where the basic front-end languages (HTML, CSS and JS) interact to create a fun interface that responds to the movement of the pointer in the browser.
+To-Do List is an application where <!--the basic front-end languages (HTML, CSS and JS) interact to create a fun interface that responds to the movement of the pointer in the browser.-->
 
-The project is made up of a pair of eyes that constantly pay attention to a bee's position and as it gets closer to them, the color of the skin changes to reddish when the bee is at the closest point.-->
+<!--The project is made up of a pair of eyes that constantly pay attention to a bee's position and as it gets closer to them, the color of the skin changes to reddish when the bee is at the closest point.-->
 
 ## :sparkles: Roadmap
 
