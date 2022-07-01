@@ -29,19 +29,25 @@
 
 ## :dart: Description
 
-To-Do List is an application where <!--the basic front-end languages (HTML, CSS and JS) interact to create a fun interface that responds to the movement of the pointer in the browser.-->
-
-<!--The project is made up of a pair of eyes that constantly pay attention to a bee's position and as it gets closer to them, the color of the skin changes to reddish when the bee is at the closest point.-->
+To-Do List is an application... <!--To-Do List is an application that allows you to add as many pending tasks as you have, just type and press enter.-->
 
 ## :sparkles: Roadmap
 
 The characteristics that this project currently has are:
 
-:heavy_check_mark: The pointer is a bee.
+:heavy_check_mark: You can add pending tasks just by typing them and pressing enter in the only input (last box) of the application.
 
-The main objective of this project is <!-- to learn how to manipulate the DOM of a web application. Also, its purpose is to handle events such as the movement of the pointer on the browser window. In the first instance, the application has fulfilled its objective, however, it is still possible to make improvements to complement it, such as:-->
+:heavy_check_mark: You can remove completed tasks by clicking the red button with the symbol :heavy_minus_sign:.
 
-:pushpin: Allow the user to switch from the pointer image.
+The main objective of this project is... <!-- to learn how to manipulate the DOM of a web application. Also, its purpose is to handle events such as the movement of the pointer on the browser window. In the first instance, the application has fulfilled its objective, however, it is still possible to make improvements to complement it, such as:-->
+
+:pushpin: Make a connection to a small database so that different users can access their own to-do list.
+
+:pushpin: Differentiate between completed tasks and deleted tasks.
+
+:pushpin: Add a small trash can where recent deleted tasks are located.
+
+:pushpin: Allow a user to have more than one to-do list
 
 ## :white_check_mark: Requirements
 
@@ -55,9 +61,7 @@ $ git clone https://github.com/AlexisCastro12/ToDo-List.git
 
 ```
 
-Find the folder in the path where the clone was made and open the './index.html' file in any browser (Chrome recommended).
-
-<!--Initially the eyes are centered, just slide the pointer along the browser window and it will change the background color. Also, the proximity of the bee will be indicated in the banner in the upper left corner-->
+Find the folder in the path where the clone was made, open the './index.html' file in any browser (Chrome recommended) and start adding your pending tasks.
 
 ## :wrench: Support
 
