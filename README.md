@@ -29,7 +29,7 @@
 
 ## :dart: Description
 
-To-Do List is an application... <!--To-Do List is an application that allows you to add as many pending tasks as you have, just type and press enter.-->
+To-Do List is an application that allows you to add as many pending tasks as you have, simply by typing and pressing enter thanks to the user interface built with responsive concepts such as functional components and hooks.
 
 ## :sparkles: Roadmap
 
@@ -39,7 +39,7 @@ The characteristics that this project currently has are:
 
 :heavy_check_mark: You can remove completed tasks by clicking the red button with the symbol :heavy_minus_sign:.
 
-The main objective of this project is... <!-- to learn how to manipulate the DOM of a web application. Also, its purpose is to handle events such as the movement of the pointer on the browser window. In the first instance, the application has fulfilled its objective, however, it is still possible to make improvements to complement it, such as:-->
+The main objective of this project is to begin to handle the combined syntax of JS and HTML to create jsx files to build applications with React. It also seeks to work with the state and the nesting of functional components of a React application. Until this update the initial purpose has been fulfilled, however, it is possible to make improvements to complement the project within which the following are proposed:-->
 
 :pushpin: Make a connection to a small database so that different users can access their own to-do list.
 
