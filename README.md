@@ -57,11 +57,16 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexisCastro12/ToDo-List.git
-
+$ git clone https://github.com/cpmn/ATM
+# Access 
+$ cd ATM
+# Configure server http
+$ npm install -- global http-server
+#start up server
+$ http-server -c-1
 ```
 
-Find the folder in the path where the clone was made, open the './index.html' file in any browser (Chrome recommended) and start adding your pending tasks.
+Open a window in any browser (Chrome recommended), go to http://localhost:8080 and the application will start running.After this you add your pending tasks.
 
 ## :wrench: Support
 
