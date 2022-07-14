@@ -57,7 +57,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/AlexisCastro12/ATM
+$ git clone https://github.com/AlexisCastro12/ToDo-List.git
 # Access 
 $ cd ATM
 # Configure server http
